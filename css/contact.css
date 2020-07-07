@@ -1,0 +1,23 @@
+.bottom-container{
+  background-color: Black;
+  padding: 50px 600px 20px;
+  font-family: 'Montserrat', sans-serif;
+
+  text-decoration: none;
+}
+.copyright{
+color: white;
+}
+.jumbotron {
+    background-image: image('n1.jpg');
+
+
+}
+.top-nav {
+    height: 6.3rem;
+    font-size: 1.5rem;
+    font-weight: 350;
+  }
+  body{
+    background-color: #D3D3D3;
+  }
